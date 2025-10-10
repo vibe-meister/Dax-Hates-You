@@ -214,7 +214,7 @@ export default function SinglePageDaxCRM() {
     <div className="min-h-screen p-6 bg-slate-50 text-slate-900">
       <div className="max-w-6xl mx-auto">
   <header className="flex items-center justify-between mb-6">
-    <h1 className="text-2xl font-bold">Dax — Single Page CRM (No Backend) v3</h1>
+    <h1 className="text-2xl font-bold">Dax — Single Page CRM (No Backend) v4</h1>
           <div className="space-x-2">
             <button onClick={exportJSON} className="px-3 py-1 rounded bg-sky-600 text-white">Export</button>
             <label className="px-3 py-1 rounded bg-emerald-600 text-white cursor-pointer">
