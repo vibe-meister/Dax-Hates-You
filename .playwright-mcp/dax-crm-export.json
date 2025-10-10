@@ -1,0 +1,101 @@
+[
+  {
+    "filename": "dax.jpg",
+    "name": "Dax",
+    "id": "dax",
+    "isUser": true,
+    "baseScore": 8,
+    "color": "#0ea5e9",
+    "customImage": "/images/dax.jpg",
+    "annoyances": {},
+    "computedScore": 8
+  },
+  {
+    "filename": "cole.jpg",
+    "name": "Cole",
+    "id": "p1",
+    "isUser": false,
+    "baseScore": 7,
+    "color": "hsl(40 80% 60%)",
+    "customImage": "/images/cole.jpg",
+    "annoyances": {},
+    "computedScore": 7
+  },
+  {
+    "filename": "elon.jpg",
+    "name": "Elon",
+    "id": "p2",
+    "isUser": false,
+    "baseScore": 7,
+    "color": "hsl(80 80% 60%)",
+    "customImage": "/images/elon.jpg",
+    "annoyances": {},
+    "computedScore": 7
+  },
+  {
+    "filename": "florin.jpg",
+    "name": "Florin",
+    "id": "p3",
+    "isUser": false,
+    "baseScore": 8,
+    "color": "hsl(120 80% 60%)",
+    "customImage": "/images/florin.jpg",
+    "annoyances": {},
+    "computedScore": 8
+  },
+  {
+    "filename": "macho.jpg",
+    "name": "Macho",
+    "id": "p4",
+    "isUser": false,
+    "baseScore": 7,
+    "color": "hsl(160 80% 60%)",
+    "customImage": "/images/macho.jpg",
+    "annoyances": {},
+    "computedScore": 7
+  },
+  {
+    "filename": "nikita.jpg",
+    "name": "Nikita",
+    "id": "p5",
+    "isUser": false,
+    "baseScore": 3,
+    "color": "hsl(200 80% 60%)",
+    "customImage": "/images/nikita.jpg",
+    "annoyances": {},
+    "computedScore": 3
+  },
+  {
+    "filename": "ryan.jpg",
+    "name": "Ryan",
+    "id": "p6",
+    "isUser": false,
+    "baseScore": 6,
+    "color": "hsl(240 80% 60%)",
+    "customImage": "/images/ryan.jpg",
+    "annoyances": {},
+    "computedScore": 6
+  },
+  {
+    "filename": "tanmay.jpg",
+    "name": "Tanmay",
+    "id": "p7",
+    "isUser": false,
+    "baseScore": 9,
+    "color": "hsl(280 80% 60%)",
+    "customImage": "/images/tanmay.jpg",
+    "annoyances": {},
+    "computedScore": 9
+  },
+  {
+    "filename": "teej.jpg",
+    "name": "Teej",
+    "id": "p8",
+    "isUser": false,
+    "baseScore": 9,
+    "color": "hsl(320 80% 60%)",
+    "customImage": "/images/teej.jpg",
+    "annoyances": {},
+    "computedScore": 9
+  }
+]
